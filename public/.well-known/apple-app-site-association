@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D969475664.com.jaiyq.linkup",
+        "paths": [
+          "/deep/*"
+        ]
+      }
+    ]
+  }
+}
